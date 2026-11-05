@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-image-processing-react-native",
+  "capabilityKey": "planned:cms:image-processing",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-image-processing-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/image-processing.md",
+  "presentationPlan": "projects/cms/react-native/image-processing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
